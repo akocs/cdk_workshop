@@ -1,0 +1,9 @@
+## General
+projectName: kaakocs-dev
+env: dev # (dev, test, prod)
+pb_name: PB-WLDeveloper
+awsProfile: viper-skyfall-project-Admin
+account: !!str 268145907050
+region: us-east-1
+vpcCidr: 172.16.0.0/24
+ShouldNotBeHere: test 
